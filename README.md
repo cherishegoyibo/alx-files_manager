@@ -10,3 +10,11 @@
 - Change permission of a file
 - View a file
 - Generate thumbnails for images
+
+## Technologies Used:
+* JavaScipt(ES6)
+* MongoDB
+* Redis
+* Node.js
+* Express.js
+* Kue
